@@ -1,6 +1,6 @@
 {
-  "keywords": ["if", "else", "while", "return"],
-  "languagefuncs": ["print"],
-  "strings": ["\""],
-  "comment": ["//"]
+  "keywords": ["if", "else", "while", "return", "def"],
+  "languagefuncs": ["print", "input", "chr", "ascii"],
+  "strings": ["\"", "'"],
+  "comment": ["#"]
 }
